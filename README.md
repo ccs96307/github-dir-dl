@@ -4,9 +4,9 @@ I want to use Python to develope a prototype, and try to support a website servi
 
 
 ## TODO List
-- [  ] Parse the html code
-- [  ] Recursive search
-- [  ] Download
-- [  ] Support command-line
-- [  ] Create a website interface to download (such as DownGit)
+- [ ] Parse the html code
+- [ ] Recursive search
+- [ ] Download
+- [ ] Support command-line
+- [ ] Create a website interface to download (such as DownGit)
 
